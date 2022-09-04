@@ -1,7 +1,45 @@
-<h1/> André Luiz Barbosa | Andrehlb´s Profile<h1/>
+# HTML5_CSS3
+Building HTML5 and CSS3 for TQI Full Stack
 
-<a href="https://app.daily.dev/Andrehlb"><img src="https://api.daily.dev/devcards/641655384bb14ec4951127a632b5793c.png?r=dsu" width="400" alt="Andre Luiz Barbosa's Dev Card"/></a>
+ **Index of the HTML5 and CSS3 file**
+
+Step 1
+
+* Introduction to how to Build a Website with HTML5 and CSS3
+  * HTML introduction;
+    * Basic structure;
+  * Semantics: Understanding What It Means and Why Words Matter
+    * Semantics part I;
+    * Semantics part II;
+    * Semantic practice; 
+* How to use texts and links in HTML
+  * Text tag;
+  * Link tag;
+  * Tags practice;
+* Adding an image into HTML
+  * Image tag;
+  * Image practice;
+* Organizing lists in HTML
+  * li, ul, and ol tags;
+  * Practice HTML lists;
+* CSS3
+  * Introduction to CSS3;
+  * Basic concept;
+* Styling HTML with CSS
+  * Stylilng elements;
+  * Styling texts;
+  * Styling lists;
+
+* Dimension and Alignment
+  * Properties;
+
+Step 2
+
+* Development of the hamburger and morphing menu using CSS transitions
 
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
+
+
+
+
 
