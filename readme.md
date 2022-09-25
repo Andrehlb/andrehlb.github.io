@@ -1,45 +1,33 @@
-# HTML5_CSS3
-Building HTML5 and CSS3 for TQI Full Stack
+# André Luiz Barbosa´s Profile
+[**GRAD AND STACKS**](#andré-luiz-barbosa´s-profile)
 
- **Index of the HTML5 and CSS3 file**
+ **Index Grad and Plus formation**
 
-Step 1
+[**BIOLOGY AND BIOTECHNOLOGY GRAD/POST GRAD:**](#andré-luiz-barbosas-profile)
 
-* Introduction to how to Build a Website with HTML5 and CSS3
-  * HTML introduction;
-    * Basic structure;
-  * Semantics: Understanding What It Means and Why Words Matter
-    * Semantics part I;
-    * Semantics part II;
-    * Semantic practice; 
-* How to use texts and links in HTML
-  * Text tag;
-  * Link tag;
-  * Tags practice;
-* Adding an image into HTML
-  * Image tag;
-  * Image practice;
-* Organizing lists in HTML
-  * li, ul, and ol tags;
-  * Practice HTML lists;
-* CSS3
-  * Introduction to CSS3;
-  * Basic concept;
-* Styling HTML with CSS
-  * Stylilng elements;
-  * Styling texts;
-  * Styling lists;
+* Biology at IBILCE/UNESP, SP;
+* MsC at ESLAQ/USP, SP;
+* PhD at ESALQ/USP, SP;
 
-* Dimension and Alignment
-  * Properties;
+[**COMPUTER AND STACKS FORMATION:**](#andré-luiz-barbosas-profile)
+- Fortran, Pascal and C at Microcamp, SJRio Preto, SP, 1992;
+- R language at ESALQ/USP, Piracicaba, SP, 2011-2012;
+- Java, remote learning, SP, April/2022:
+ 
+    * Let´s Code
+    * IBM by Coursera 
+    * Start.Se
+    * CapGemini
 
-Step 2
+* Front-End stack, remote learning, SP, April/2022:
+  * Let´s Code;
+  * IBM by Coursera
+  * Digital Innovation
+  * Alura
+  * RocketSeat
 
-* Development of the hamburger and morphing menu using CSS transitions
-
-
-
-
+* Full-Stack progress:
+  * EMBRAER Bootcamp by XP Educaiton start in September, 29, 2022.
 
 
 
