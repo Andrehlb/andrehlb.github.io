@@ -11,58 +11,133 @@ body {
     padding: 0;
     font-family: 'Roboto', sans-serif;
     height: 100px;
+    color: black;
 }
 
 ::-webkit-scrollbar {
 display: none;
 }
+/*transição de título da página */ 
 
-/* .banner {
+.img_ALB {
+    position:absolute;
+    height: 150px;
+    margin-top: absolute;
+    margin-left: 0px;
+    border-radius: 50%;
+}
+
+.card2 {
+    height:150px;
+    width:1600px;
+    margin-top:40px;
+    margin-left: 20px;
+    background-image:url(/playground_HTML_CSS_JS/profile24092022/assets24092022/img24092022/ConexãoInternet1.jpg);
+    background-position: bottom;
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:flex;
+    justify-content:left;
+    align-items:center;
+    filter: grayscale(0.3);
+    color: white;
+    cursor:pointer;
+    transition: 0.3s;
+
+}
+
+.card-wrapper2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    justify-content: center;
+    opacity: 0.7;
+    align-items: center;
+    margin-left: 180px;
+}
+
+/*.card-wrapper2::before {
+    content: '';
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    display: block;
+    border: 1px solid white;
+    opacity: 0;
+    transition: 0.3s;
+}*/
+
+.card-wrapper2 h3 {
+    color: rgb(9, 35, 153);
+    font-size: 33px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    margin:auto;
+    transition: 0.3s;
+}
+
+.card-wrapper2 p {
+    font-size: 0;
+    color: rgb(243, 7, 7);
+    visibility: visible;
+    opacity: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: 0.8s;
+}
+
+.card2:hover {
+    filter: unset;
+}
+
+.card2:hover > .card-wrapper2::before {
+    height: 150px;
+    width: 500px;
+    background-color: aqua;
+    opacity: 0.3;
+}
+
+.card2:hover > .card-wrapper2 p {
+    opacity: 1;
+    visibility: visible;
+    font-size: 14px;
+}
+
+.banner {
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
 .wrapper {
     display: block;
     flex-direction: column;
     border: 15px solid black;
 }
 
-
 .banner video {
-    position: fixed;
+    position:absolute;
     top: 0;
     left: 0;
     object-fit: cover;
     width: 100%;
 }
 
-/*.banner .content {
-    position: fixed;
+.banner .content {
+    position: relative;
     margin-top: 0;
     z-index: 1; 
     max-width: 0 auto;
     text-align: right;
-}*/
-
-#ALB_name {
-    position: relative;
-    margin-top: -80px;
-    margin-left: 200px;
-    font-size: 2em;
-    text-transform: uppercase;
-    color: rgb(7, 14, 116);
 }
 
-.img_ALB {
-    position:absolute;
-    height: 150px;
-    margin-top: absolute;
-    margin-left: 20px;
-    border-radius: 50%;
+
+.card-wrapper {
+    text-align: left;
+    display: flex;
 }
 
 .banner .content p {
@@ -70,7 +145,7 @@ display: none;
     margin-top: 10px;
     margin-left: 60%;
     margin-right: 5%;
-    font-size: 16px;
+    font-size: 18px;
     color: black;
 }
 
