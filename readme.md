@@ -20,11 +20,9 @@
     * CapGemini
 
 * Front-End stack, remote learning, SP, April/2022:
+  * *Start.Se 
   * Let´s Code;
   * IBM by Coursera
-  * Digital Innovation
-  * Alura
-  * RocketSeat
 
 * Full-Stack progress:
   * EMBRAER Bootcamp by XP Educaiton start in September, 29, 2022.
